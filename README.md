@@ -69,8 +69,4 @@ Dataset: Breast Cancer
     XGBoost: 0.9737
 ```
 
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or open an issue for improvements.
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
